@@ -1,0 +1,6 @@
+gmx_fft_mkl.lo: gmx_fft_mkl.c /usr/include/stdc-predef.h \
+ ../../src/config.h
+
+/usr/include/stdc-predef.h:
+
+../../src/config.h:
